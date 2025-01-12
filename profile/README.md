@@ -41,5 +41,5 @@ Our primary goal is to contribute to the development of smarter and culturally a
     - Python (Torch)
     - Data scientists
 - [Younghoon Kim](https://github.com/hnskyh1103)
-  - 
+- [Jiwon Kim](https://github.com/jwkim246029)
 
