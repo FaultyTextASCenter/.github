@@ -1,5 +1,5 @@
 # Faulty Text AS Center
-<img src="https://lh3.googleusercontent.com/htn-1q0U-bZIGK9Kb8EfTHNcTvjattSa3mnmCcKdO5bGTMrViDoRDuw6zO2--Y6DyjkDzgKETqAgkQG6Fl6D9VA02rU6Lq5KP_dwhjGo_RKrj4J3eJZX7dxa1Jb4wHC-HA=w1280" alt="Logo" width=300/>
+<img src="https://i.imgur.com/jMHq50m.png" alt="Logo" width=300/>
 
 ## Introduction
 
