@@ -38,8 +38,14 @@ Our primary goal is to contribute to the development of smarter and culturally a
       - Computer structure and microprocessors
 - [Eunseok Lee](https://github.com/EunseokLee03)
   - Competencies
-    - Python (Torch)
+    - Python (Torch), SQL
     - Data scientists
+  - Key Research
+    - Statistics
+    - Linear Regression
+    - Data Sampling
+    - Applied Probability Modeling
+    - Artificial Intelligence Based Optimization and DeepLearning
 - [Younghoon Kim](https://github.com/hnskyh1103)
 - [Jiwon Kim](https://github.com/jwkim246029)
 
