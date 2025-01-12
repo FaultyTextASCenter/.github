@@ -1,6 +1,6 @@
 # Faulty Text AS Center
 <p align="center">
-  <img src="https://i.imgur.com/jMHq50m.png" alt="Logo" width=300/>
+  <img src="https://i.imgur.com/jMHq50m.png" alt="Logo" width=450/>
 </p>
 
 ## Introduction
