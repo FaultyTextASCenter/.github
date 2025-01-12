@@ -23,3 +23,19 @@ Our primary goal is to contribute to the development of smarter and culturally a
 1. Make digital communication more inclusive and accessible.
 2. Support the linguistic and cultural richness of Korean in the global tech landscape.
 3. Provide tools for researchers and developers working with complex and nuanced languages.
+
+## member
+- [Sunjun Hwang](https://github.com/justinbrianhwang)
+  - [site](https://sites.google.com/view/seonjunhwang/home)
+  - Competencies
+      - Python (NumPy, Pandas, matplotlib, Torch, etc.)
+      - Full-Stack developer
+      - Undergraduate researcher in Yonsei University
+  - Research Areas
+      - NLP
+      - Quantum computing
+      - Highly reliable artificial intelligence
+      - Computer structure and microprocessors
+- [Eunseok Lee]()
+- 
+
