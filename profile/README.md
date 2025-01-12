@@ -37,5 +37,9 @@ Our primary goal is to contribute to the development of smarter and culturally a
       - Highly reliable artificial intelligence
       - Computer structure and microprocessors
 - [Eunseok Lee](https://github.com/EunseokLee03)
-- 
+  - Competencies
+    - Python (Torch)
+    - Data scientists
+- [Younghoon Kim](https://github.com/hnskyh1103)
+  - 
 
