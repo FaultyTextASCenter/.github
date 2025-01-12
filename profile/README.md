@@ -36,6 +36,6 @@ Our primary goal is to contribute to the development of smarter and culturally a
       - Quantum computing
       - Highly reliable artificial intelligence
       - Computer structure and microprocessors
-- [Eunseok Lee]()
+- [Eunseok Lee](https://github.com/EunseokLee03)
 - 
 
